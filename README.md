@@ -7,7 +7,7 @@
 # 🚗 안전한 세차용품 정보 제공 플랫폼
 
 ## 🔗 프로젝트 링크
-
+### 모바일 환경에 최적화 되어있습니다.
 - [운영 서버 URL](https://www.washfit.site/)
 - [개발 서버 URL](https://dev.washfit.site/)
 - [스토리북 URL](https://www.chromatic.com/library?appId=659a0cf1b613430cc09b3672)
